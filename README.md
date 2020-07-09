@@ -4,18 +4,17 @@ My name is Humberto. I am a 23-year-old software developer working on [@fetchbug
 
 I love (and work with):
 
-- C/C++
 - TypeScript _and_ JavaScript
+- C/C++
 - DevOps Wizardry
-  - zsh
-  - ansible
-  - docker
 - Python
 
 My future-self, should totally know about (because I'm currently learning):
 
 - Rust
-- IaC
+- Lisp
+- IaC Tooling
+- Elixir
 
 #### Hobby lobby
 
