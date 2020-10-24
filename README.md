@@ -28,3 +28,5 @@ I am an ever-learning, ever-changing, ever-growing person with a love for taquit
 
 - Oldie-but-goldie electronic mail: [hello@humbertowoody.xyz](mailto:hello@humbertowoody.xyz?subject=Hi%20there!&body=I%20would%20like%20to%20argue%20about%20cats%20vs.%20dogs%20with%20you.%0D%0A%0D%0ASincerely%2C%0D%0A%5BYour%20name%20here%5D.)
 - Twitter-verse: [@humbertowoody](https://twitter.com/humbertowoody)
+
+[![Humberto's github stats](https://github-readme-stats.vercel.app/api?username=humbertowoody)](https://github.com/anuraghazra/github-readme-stats)
